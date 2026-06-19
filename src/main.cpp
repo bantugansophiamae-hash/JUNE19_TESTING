@@ -7,6 +7,7 @@ void setup() {
  Serial.println("D");
  Serial.println("E");
  Serial.println("F");
+ Serial.println("G");
 }
 
 void loop() {
